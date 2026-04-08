@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "baseUrl": ".",\n    "paths": {\n      "@components/*": ["src/components/*"],\n      "@utils/*": ["src/utils/*"],\n      "@models/*": ["src/models/*"]\n    }\n  }\n}
